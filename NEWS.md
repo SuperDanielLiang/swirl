@@ -246,4 +246,4 @@ through UTF-8 encoding.
 
 * Makes heavy use of R's S3 object oriented programming dialect to promote an easily extensible architecture. Incorporating new functionality simply requires writing new methods for existing "core" functions.
 
-* Instructors can now author content in an R Markdown (.Rmd) file, then use `rmd2csv()` to create the CSV file from which swirl reads content. This is an experimental feature based on syntax employed by [slidify](https://github.com/ramnathv/slidify), an R package designed by Ramnath Vaidyanathan for creating interactive web presentations.
+* Instructors can now author content in an R Markdown (.Rmd) file, then use `rmd2csv()` to create the CSV file from which swirl reads content. This is an experimental feature based on syntax employed by [slidify](https://github.com/ramnathv/slidify), an R package designed by Ramnath Vaidyanathan for creating interactive web presentations.Hi
